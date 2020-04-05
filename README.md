@@ -1,0 +1,1 @@
+# sb-shipment-eureka-ribbon-consumer-sample
